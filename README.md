@@ -1,2 +1,1 @@
-# Topic_modelling
-Codes for topic modelling and basic NLP including stemming, lemmatisation, spelling correction.
+# An Entity Based LDA for Generating Sentiment Enhanced Business and Customer Profiles from Online Reviews
